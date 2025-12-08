@@ -1,0 +1,11 @@
+# 核心AI/数据科学包
+pandas>=2.0.0
+numpy>=1.24.0
+openai>=1.0.0
+scikit-learn>=1.3.0
+langchain>=0.1.0
+tqdm>=4.65.0
+
+# 文件/配置处理
+pyyaml>=6.0.0
+python-dotenv>=1.0.0
