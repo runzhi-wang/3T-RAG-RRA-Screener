@@ -30,7 +30,6 @@ The script will process each article through the 3T+RAG-RRA pipeline and save re
 
 - `article_id`: Unique identifier
 - `title`: Article title
-- `relevance_score`: Final relevance score (0-1)
 - `relevance_label`: Final label (Relevant/Irrelevant)
 - `reviewer1_decision`, `reviewer2_decision`: Individual reviewer judgments
 - `arbiter_decision`: Decision of arbiter agent if reviewer agents disagreed
